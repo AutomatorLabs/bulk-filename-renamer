@@ -1,5 +1,10 @@
 # Bulk Filename Renamer
 
+
+<p align="center">
+  <img src="icon.png" width="160">
+</p>
+
 Bulk Filename Renamer is a lightweight offline desktop utility for renaming many files quickly and safely.
 
 Built for:
