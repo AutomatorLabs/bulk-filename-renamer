@@ -58,6 +58,10 @@ macOS
 
 v1.0
 
+<p align="center">
+  <img src="./screenshots/demo.gif" width="850">
+</p>
+
 ## Note
 
 This repository is a public product page only. Source code is private.
