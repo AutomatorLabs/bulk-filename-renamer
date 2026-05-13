@@ -59,7 +59,7 @@ macOS
 v1.0
 
 <p align="center">
-  <img src="./screenshots/demo.gif" width="850">
+  <img src="./Screenshots/demo.gif" width="850">
 </p>
 
 ## Note
